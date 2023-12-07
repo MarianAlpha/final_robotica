@@ -51,7 +51,7 @@ Este proyecto implementa un juego de triqui (o tres en raya) utilizando un robot
 
 Una vez que la configuración inicial esté completa, sigue estos pasos para iniciar el juego:
 
-**Ejecutar el Script Principal:** Ejecuta el script principal del juego. Este iniciará la detección de colores, controlará el Dobot para ubicar las fichas en el tablero y permitirá jugar el triqui.
+**Ejecutar el Script Principal:** Ejecuta el script principal del juego. Este iniciará la detección de colores, controlará el Dobot para ubicar las fichas en el tablero y permitirá jugar el triqui, este script se encuntra en el archivo [Main](https://github.com/MarianAlpha/final_robotica/blob/main/Codes/main.py) .
 
 **Interacción Durante el Juego:** Durante la ejecución siempre inicia el usuario, sigue las instrucciones proporcionadas en la consola para jugar. Las fichas serán ubicadas por el Dobot, y podrás hacer tus movimientos cuando sea tu turno.
 

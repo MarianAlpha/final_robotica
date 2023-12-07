@@ -4,12 +4,6 @@ DobotDemoForPython64 is the demo of python package dynamic library files. It can
 
 This document describes the secondary development environment building and demo python codes, frameworks, and systems, aiming to help secondary developer to understand common API of Dobot Magician and build development environment quickly.
 
-<div align=center>
-
-<img src="images/pythondemo.png" width="500" height="350" />
-
-</div>
-
 ## Files Description
 
 - Dll files contain the api functions needed to control Dobot Magician.
